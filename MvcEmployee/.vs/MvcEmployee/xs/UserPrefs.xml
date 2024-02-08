@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{2CBEA8D6-40DA-4BC8-9051-290B0F9F25EA}|https" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MvcEmployee PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
